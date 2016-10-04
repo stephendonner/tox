@@ -11,13 +11,13 @@ Getting in contact:
 * file a `report on the issue tracker`_
 * hang out on the irc.freenode.net #pylib channel
 * `clone the mercurial repository`_ and submit patches
-* the `tetamap blog`_, `holger's twitter presence`_ or 
+* the `tetamap blog`_, `holger's twitter presence`_ or
   for private inquiries holger krekel at gmail.
 
 professional support
 ----------------------------
 
-.. note:: Upcoming: `professional testing with pytest and tox <`http://www.python-academy.com/courses/specialtopics/python_course_testing.html>`_ , 24th-26th June 2013, Leipzig.
+.. note:: Upcoming: `professional testing with pytest and tox` http://www.python-academy.com/courses/specialtopics/python_course_testing.html, 24th-26th June 2013, Leipzig.
 
 If you are looking for on-site teaching or consulting support,
 contact holger at `merlinux.eu`_, an association of
@@ -33,4 +33,3 @@ experienced well-known Python developers.
 .. _`tox-dev`: http://codespeak.net/mailman/listinfo/tox-dev
 .. _`tox-commit`: http://codespeak.net/mailman/listinfo/tox-commit
 .. _`clone the mercurial repository`: https://github.com/tox-dev/tox
-
